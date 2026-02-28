@@ -1,5 +1,3 @@
-# RL for LLMs in 45 Minutes
-
 ## 1. The Core Loop
 
 - Every post-training method is the **same loop**: Policy → Behavior → Feedback → Update
